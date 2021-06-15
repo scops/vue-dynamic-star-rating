@@ -2,7 +2,7 @@
 ## A Highly Customizable, easy-to-use elegant stars rating component (similar to Google Play)
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
-[![view on npm](http://img.shields.io/npm/v/vue-dynamic-star-rating.svg?colorB=red)](https://www.npmjs.org/package/vue-dynamic-star-rating)
+[![view on npm](http://img.shields.io/npm/v/vue-scops-star-rating.svg?colorB=red)](https://www.npmjs.org/package/vue-scops-star-rating)
 
 Credit to https://github.com/JonathanDn/vue-stars-rating. I just did some changes to make it work in my projects, like watching the rating prop for changes.
 
@@ -13,15 +13,15 @@ For a walkthrough blogpost about how he implemented this component you can head 
 ![4.6 Star Rating](https://github.com/scops/vue-scops-stars-rating/blob/master/demo_indicator.png "4.6 Rating Stars")
 
 # Usage
-Install via NPM ```npm i vue-dynamic-star-rating```
+Install via NPM ```npm i vue-scops-star-rating```
 
 Then require in your project:
 ```js
-var StarRating = require('vue-dynamic-star-rating');
+var StarRating = require('vue-scops-star-rating');
 ```
 or ES6 syntax:
 ```js
-import StarRating from 'vue-dynamic-star-rating'
+import StarRating from 'vue-scops-star-rating'
 ```
 Then you can register the component globally:
 ```js
