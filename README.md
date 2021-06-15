@@ -1,4 +1,4 @@
-# vue-dynamic-star-rating
+# vue-scops-star-rating
 ## A Highly Customizable, easy-to-use elegant stars rating component (similar to Google Play)
 
 ![MIT License](https://badgen.net/badge/license/MIT/blue "MIT License")
@@ -6,11 +6,11 @@
 
 Credit to https://github.com/JonathanDn/vue-stars-rating. I just did some changes to make it work in my projects, like watching the rating prop for changes.
 
-For a walkthrough blogpost about how he implemented this component you can head to my *[medium post](https://medium.com/@yonatandoron/star-rating-make-svg-great-again-d4ce4731347e)*
+For a walkthrough blogpost about how he implemented this component you can head tos his *[medium post](https://medium.com/@yonatandoron/star-rating-make-svg-great-again-d4ce4731347e)*
 
 ###### Demo
 
-![4.6 Star Rating](https://github.com/scops/vue-stars-rating/blob/master/demo_indicator.png "4.6 Rating Stars")
+![4.6 Star Rating](https://github.com/scops/vue-scops-stars-rating/blob/master/demo_indicator.png "4.6 Rating Stars")
 
 # Usage
 Install via NPM ```npm i vue-dynamic-star-rating```
